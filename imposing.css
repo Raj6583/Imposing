@@ -1,4 +1,14 @@
-/*CSS styles making stunt to coming years*/
-/*Here my few stuffs to show my interest to you all*/
+/*CSS styles making stun to coming years*/
+/*
+	Imposing
+	Grand and Impressive in appearance
+*/
 
-/*Styles which we can use to our projects*/
+body{
+	margin: 0;
+	padding: 0;
+}
+#wrapper {
+	width: 980px;
+	background: #f6f6f6;
+}
